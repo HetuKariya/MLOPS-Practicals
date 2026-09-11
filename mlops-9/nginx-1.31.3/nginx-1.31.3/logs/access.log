@@ -25,3 +25,6 @@
 127.0.0.1 - - [11/Sep/2026:07:18:49 +0530] "GET / HTTP/1.1" 200 2542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 127.0.0.1 - - [11/Sep/2026:07:18:50 +0530] "GET /favicon.ico HTTP/1.1" 404 207 "https://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 127.0.0.1 - - [11/Sep/2026:07:19:08 +0530] "GET / HTTP/1.1" 200 2542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+127.0.0.1 - - [11/Sep/2026:08:05:20 +0530] "GET / HTTP/1.1" 200 2542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+127.0.0.1 - - [11/Sep/2026:08:05:29 +0530] "GET / HTTP/1.1" 200 2542 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+127.0.0.1 - - [11/Sep/2026:08:05:45 +0530] "POST /predict HTTP/1.1" 200 2383 "https://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
